@@ -61,7 +61,7 @@ An interactive and immersive 3D Solar System exploration mobile application buil
 
 3. **Run the application:**
    ```bash
-   flutter run
+   flutter run 
    ```
 
 ---
